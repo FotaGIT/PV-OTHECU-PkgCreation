@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PkgCreation", "PkgCreation.csproj", "{DFEE9B97-55CF-49F9-8BE1-DA69B22DA14A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEE9B97-55CF-49F9-8BE1-DA69B22DA14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEE9B97-55CF-49F9-8BE1-DA69B22DA14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEE9B97-55CF-49F9-8BE1-DA69B22DA14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEE9B97-55CF-49F9-8BE1-DA69B22DA14A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFEFCAAA-0473-41D8-B9DC-7F7E18A21216}
+	EndGlobalSection
+EndGlobal
